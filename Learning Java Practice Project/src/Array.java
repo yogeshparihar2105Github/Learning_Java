@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-import javax.swing.text.html.HTMLDocument.HTMLReader.IsindexAction;
-
 public class Array {
     public static void main(String[] args) {
 
