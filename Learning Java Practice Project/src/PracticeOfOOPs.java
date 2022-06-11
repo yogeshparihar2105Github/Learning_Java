@@ -54,7 +54,7 @@ public class PracticeOfOOPs {
     }
 }
 
-class Employee
+class Employee11
 {
     String name;
     int salary;
@@ -75,7 +75,7 @@ class Employee
     }
 }
 
-class Phone
+class Phone1
 {
 
     void isRinging()
@@ -89,7 +89,7 @@ class Phone
 
 }
 
-class Square
+class Square1
 {
     int side;
 
