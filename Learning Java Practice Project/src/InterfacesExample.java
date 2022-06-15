@@ -8,6 +8,14 @@ interface hornBlow{
     void blowHorn();
 }
 
+
+class phone232{
+    void phnnd()
+    {
+        System.out.println("sojddsfoidijf");
+    }
+}
+
 //you can implements multiple interfaces but can not extend multiple classes.
 class HeroCycle implements Cycle, hornBlow{
 
