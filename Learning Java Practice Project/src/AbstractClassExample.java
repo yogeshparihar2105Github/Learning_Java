@@ -7,6 +7,10 @@ abstract class PhoneModel{
     abstract void greet();
 
     abstract void switchOff();
+
+    void Ring(){
+        System.out.println("Ringingi....");
+    }
   
 }
 class Xiomi extends PhoneModel{
@@ -70,7 +74,7 @@ class Realme extends PhoneModel{
 }
 
 
-public class AbstractClass {
+public class AbstractClassExample {
     public static void main(String[] args) {
 
         System.out.println("Xiomi Class");
@@ -88,5 +92,7 @@ public class AbstractClass {
         realme5.welcome();
         realme5.greet();
         realme5.switchOff();
+
+        redmi9.Ring();
     }
 }
