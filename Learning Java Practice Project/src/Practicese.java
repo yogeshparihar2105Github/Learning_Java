@@ -1,8 +1,9 @@
 class Practicese{
     public static void main(String[] args) {
         
-        DownStairsStarPrinting();
-        UpStairsStarPrinting();
+        // DownStairsStarPrinting();
+        // UpStairsStarPrinting();
+        Rexu(10);
     }
 
     private static void DownStairsStarPrinting() {
@@ -36,5 +37,24 @@ class Practicese{
            }
            System.out.println("");
         }
+    }
+
+    private static void Rexu(int a){
+
+        if(a==0)
+        {
+            return;
+        }
+        Rexu(a-1);
+        for(int i=0;i<a;i++)
+        {
+            for(int j=0;j<i;j++)
+            {
+                System.out.print("*");
+                
+            }
+            System.out.println("");
+        }
+
     }
 }
