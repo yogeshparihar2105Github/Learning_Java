@@ -1,6 +1,8 @@
 package com.kunalKushwaha.BinarySearchQuestions;
 //This will not work for the duplicate values
-//we have the method for duplicate values as well in the end see below
+
+//we have the method for duplicate values as well in the end on line 80
+
 //the array is sorted but rotated from the pivot(i.e. pivot element or highest element)
 //Find pivot element first
 //then apply binary search from start = 0 to pivot
