@@ -14,7 +14,6 @@ public class CountRotationOfArray {
         return count + 1;
     }
 
-
     public static int findpivotElement_Index(int[] arr)
     {
         int start = 0;
