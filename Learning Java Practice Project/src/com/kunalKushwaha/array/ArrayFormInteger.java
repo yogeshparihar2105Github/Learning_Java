@@ -2,15 +2,15 @@ package com.kunalKushwaha.array;
 
 public class ArrayFormInteger {
     public static void main(String[] args) {
-        // int[] arr = {1,2,3,4};
-        // System.out.println(ArrayToInt(arr));
-        int n = 12345;
-        int [] resu = IntToArray(n); 
+        int[] arr = {1,2,3,4};
+        System.out.println(ArrayToInt(arr));
+        // int n = 12345;
+        // int [] resu = IntToArray(n); 
         
-        for(int i = 0; i< resu.length;i++)
-        {
-            System.out.println("Element number "+i+" is : "+resu[i]);
-        }
+        // for(int i = 0; i< resu.length;i++)
+        // {
+        //     System.out.println("Element number "+i+" is : "+resu[i]);
+        // }
     }
     public static int ArrayToInt(int[] arr)
     { 
