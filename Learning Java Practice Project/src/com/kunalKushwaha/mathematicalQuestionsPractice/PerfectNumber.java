@@ -1,7 +1,7 @@
 //A number is perfect number when sum of all the factors except itself of that 
 //number is equal to the number itself
 
-package com.kunalKushwaha;
+package com.kunalKushwaha.mathematicalQuestionsPractice;
 
 public class PerfectNumber {
     public static void main(String[] args) {

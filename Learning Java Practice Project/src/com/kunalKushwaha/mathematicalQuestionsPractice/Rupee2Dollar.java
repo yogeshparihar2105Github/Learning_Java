@@ -1,4 +1,4 @@
-package com.kunalKushwaha;
+package com.kunalKushwaha.mathematicalQuestionsPractice;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.kunalKushwaha;
+package com.kunalKushwaha.mathematicalQuestionsPractice;
 
 public class PalindromeNumber {
     public static void main(String[] args) {

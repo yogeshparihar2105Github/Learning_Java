@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class CheckLeapYear {
     public static void main(String[] args) {
         //leap year divide by 4;
-        //Except 100; if it is 100 then it should be divide by 400 as well to be a leap year
+        //Except 100; if it is 100 then it should be divided by 400 as well to be a leap year
 
         //print Enter the leap year 
         //Ask the user to enter an integer

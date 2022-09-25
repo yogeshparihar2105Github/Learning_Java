@@ -1,8 +1,8 @@
-Question : https://leetcode.com/problems/sqrtx/submissions/
+//Question : https://leetcode.com/problems/sqrtx/submissions/
 
 package com.kunalKushwaha.BinarySearchQuestions;
 
-class FindSqrt {
+public class FindSqrt {
 
     public int mySqrt(int x) {
 

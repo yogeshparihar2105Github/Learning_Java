@@ -1,4 +1,4 @@
-package com.kunalKushwaha;
+package com.kunalKushwaha.mathematicalQuestionsPractice;
 
 
 public class nPr_nCr {

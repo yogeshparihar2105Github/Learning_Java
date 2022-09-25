@@ -1,4 +1,4 @@
-package com.kunalKushwaha;
+package com.kunalKushwaha.mathematicalQuestionsPractice;
 
 public class KunalGoesOutOnEvenDaysOnly {
     public static void main(String[] args) {
