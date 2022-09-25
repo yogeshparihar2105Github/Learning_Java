@@ -2,38 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="988a8dc7-1b94-4a4e-9271-bd8c92eb0d71" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Projects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/SortingAlgoNQuestions/MissingNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_Projects.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning Java Practice Project/src/CheckLeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/CheckLeapYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/AreaOfCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/mathematicalQuestionsPractice/AreaOfCircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/ArmstrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/mathematicalQuestionsPractice/ArmstrongNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/BinarySearchQuestions/FindSqrt.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/BinarySearchQuestions/FindSqrt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/CalculateElectricityBill.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/mathematicalQuestionsPractice/CalculateElectricityBill.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/EvenORodd.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/mathematicalQuestionsPractice/EvenORodd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/mathematicalQuestionsPractice/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/FactorsOfN.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/mathematicalQuestionsPractice/FactorsOfN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/FibonacciSeriesUptoN.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/mathematicalQuestionsPractice/FibonacciSeriesUptoN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/Greetings.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/mathematicalQuestionsPractice/Greetings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/KunalGoesOutOnEvenDaysOnly.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/mathematicalQuestionsPractice/KunalGoesOutOnEvenDaysOnly.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/LargestNumberFromInputedNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/mathematicalQuestionsPractice/LargestNumberFromInputedNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/Lcm_Hcf.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/mathematicalQuestionsPractice/Lcm_Hcf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/MaxNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/mathematicalQuestionsPractice/MaxNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/NegativeSum_EvenPositiveSum_OddPositiveSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/mathematicalQuestionsPractice/NegativeSum_EvenPositiveSum_OddPositiveSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/PalindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/mathematicalQuestionsPractice/PalindromeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/PalindromeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/mathematicalQuestionsPractice/PalindromeString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/PerfectNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/mathematicalQuestionsPractice/PerfectNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/Power.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/mathematicalQuestionsPractice/Power.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/ProductNsumOfDigitsOfInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/mathematicalQuestionsPractice/ProductNsumOfDigitsOfInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/Rupee2Dollar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/mathematicalQuestionsPractice/Rupee2Dollar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/SimpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/mathematicalQuestionsPractice/SimpleCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/SimpleIntrest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/mathematicalQuestionsPractice/SimpleIntrest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/SumOfAllInputNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/mathematicalQuestionsPractice/SumOfAllInputNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/nPr_nCr.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/mathematicalQuestionsPractice/nPr_nCr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/SortingAlgoNQuestions/AllNumberMissingInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/SortingAlgoNQuestions/cyclicSort/CyclicSortAlgo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/SortingAlgoNQuestions/cyclicSort/CyclicSortAlgo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,14 +29,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.CyclicSortAlgo">
+    <configuration name="CyclicSortAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kunalKushwaha.SortingAlgoNQuestions.cyclicSort.CyclicSortAlgo" />
+      <module name="Java_Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kunalKushwaha.SortingAlgoNQuestions.cyclicSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kunalKushwaha.SortingAlgoNQuestions.MissingNumber" />
       <module name="Java_Projects" />
@@ -81,6 +65,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CyclicSortAlgo" />
         <item itemvalue="Application.MissingNumber" />
       </list>
     </recent_temporary>

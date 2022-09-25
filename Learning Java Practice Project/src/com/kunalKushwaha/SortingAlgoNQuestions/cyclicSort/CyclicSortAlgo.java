@@ -13,13 +13,17 @@ public class CyclicSortAlgo
     }
     public static void CyclicSort(int[] arr)
     {
-        for(int i = 0; i < arr.length; i++)
+        int i = 0;
+        while(i < arr.length)
         {
             int correct = arr[i] - 1;
-
             if(arr[i] != arr[correct])
             {
                 Swap(arr,i,correct);
+            }
+            else
+            {
+                i++;
             }
         }
     }
