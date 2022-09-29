@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="988a8dc7-1b94-4a4e-9271-bd8c92eb0d71" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/SortingAlgoNQuestions/AllNumberMissingInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/BinarySearchQuestions/SearchInsertPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/SortingAlgoNQuestions/FindAllDisapperedNumberInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/SortingAlgoNQuestions/FindAllDuplicatesInArrray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/SortingAlgoNQuestions/FindDuplicateNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/SortingAlgoNQuestions/FirstMissingPositive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/SortingAlgoNQuestions/SearchInsertPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/SortingAlgoNQuestions/SetMismatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/array/StringPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/SortingAlgoNQuestions/cyclicSort/CyclicSortAlgo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/SortingAlgoNQuestions/cyclicSort/CyclicSortAlgo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +31,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FEysCybfn066P8G2elctRx5WDz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,7 +45,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CyclicSortAlgo">
+  <component name="RunManager" selected="Application.StringPalindrome">
     <configuration name="CyclicSortAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kunalKushwaha.SortingAlgoNQuestions.cyclicSort.CyclicSortAlgo" />
       <module name="Java_Projects" />
@@ -63,8 +72,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kunalKushwaha.array.StringPalindrome" />
+      <module name="Java_Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kunalKushwaha.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringPalindrome" />
         <item itemvalue="Application.CyclicSortAlgo" />
         <item itemvalue="Application.MissingNumber" />
       </list>
