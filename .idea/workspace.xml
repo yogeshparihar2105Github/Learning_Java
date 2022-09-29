@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="988a8dc7-1b94-4a4e-9271-bd8c92eb0d71" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/BinarySearchQuestions/SearchInsertPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/SortingAlgoNQuestions/FindAllDisapperedNumberInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/SortingAlgoNQuestions/FindAllDuplicatesInArrray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/SortingAlgoNQuestions/FindDuplicateNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/SortingAlgoNQuestions/FirstMissingPositive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/SortingAlgoNQuestions/SearchInsertPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/SortingAlgoNQuestions/SetMismatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/array/StringPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/SortingAlgoNQuestions/AssignCookies.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
