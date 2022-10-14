@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="988a8dc7-1b94-4a4e-9271-bd8c92eb0d71" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/SortingAlgoNQuestions/HeightChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/SortingAlgoNQuestions/LargestPerimeterTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/SortingAlgoNQuestions/SquaresOfSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/StringsForNewStart/PracticingStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/array/FindPivotIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/patternQuestions/PatternQuestions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StringPalindrome">
+  <component name="RunManager" selected="Application.PatternQuestions">
     <configuration name="CyclicSortAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kunalKushwaha.SortingAlgoNQuestions.cyclicSort.CyclicSortAlgo" />
       <module name="Java_Projects" />
@@ -54,12 +54,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kunalKushwaha.SortingAlgoNQuestions.MissingNumber" />
+    <configuration name="FindPivotIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kunalKushwaha.array.FindPivotIndex" />
       <module name="Java_Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kunalKushwaha.SortingAlgoNQuestions.*" />
+          <option name="PATTERN" value="com.kunalKushwaha.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PatternQuestions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kunalKushwaha.patternQuestions.PatternQuestions" />
+      <module name="Java_Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kunalKushwaha.patternQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticingStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kunalKushwaha.StringsForNewStart.PracticingStrings" />
+      <module name="Java_Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kunalKushwaha.StringsForNewStart.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,9 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PatternQuestions" />
+        <item itemvalue="Application.FindPivotIndex" />
+        <item itemvalue="Application.PracticingStrings" />
         <item itemvalue="Application.StringPalindrome" />
         <item itemvalue="Application.CyclicSortAlgo" />
-        <item itemvalue="Application.MissingNumber" />
       </list>
     </recent_temporary>
   </component>
