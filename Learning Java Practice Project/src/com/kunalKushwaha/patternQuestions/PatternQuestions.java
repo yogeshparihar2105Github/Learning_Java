@@ -3,7 +3,7 @@ package com.kunalKushwaha.patternQuestions;
 public class PatternQuestions {
 
     public static void main(String[] args) {
-        pattern11(5);
+        pattern12(5);
     }
 
     public static void pattern1(int n)
@@ -268,7 +268,6 @@ public class PatternQuestions {
         //  * * *
         //   * *
         //    *
-        int x = 0;
         for(int row = 1; row <= n; row++)
         {
             //print spaces if row > 1
@@ -284,6 +283,63 @@ public class PatternQuestions {
             }
             //After every Row print new line
             System.out.println();
+        }
+    }
+    public static void pattern12(int n)
+    {
+        //you have to print spaces also
+        //     * * * * *
+        //      * * * *
+        //       * * *
+        //        * *
+        //         *
+        //         *
+        //        * *
+        //       * * *
+        //      * * * *
+        //     * * * * *
+        for(int row = 1; row <= 2*n; row++)
+        {
+            if(row <= n)
+            {
+                //print spaces if row > 1
+                for(int spaces = 1; spaces < row; spaces++)
+                {
+                    System.out.print(" ");
+                }
+                //Now print stars in the same row
+                for(int col = 1; col <= n-row+1; col++)
+                {
+                    System.out.print("*");
+                    System.out.print(" ");
+                }
+                //After every Row print new line
+                System.out.println();
+            }
+            else
+            {
+                //first print spaces
+                for(int spaces = 1; spaces <= 2*n-row; spaces++)
+                {
+                    System.out.print(" ");
+                }
+                //Now print stars in the same row
+                for(int col = 1; col <= row-n; col++)
+                {
+                    System.out.print("*");
+                    if(row > n+1)
+                    {
+                        System.out.print(" ");
+                    }
+                }
+                //Now print spaces again
+                for(int spaces = 1; spaces <= 2*n-row; spaces++)
+                {
+                    System.out.print(" ");
+                }
+                //After every Row print new line
+                System.out.println();
+            }
         }
     }
 }

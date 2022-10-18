@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="988a8dc7-1b94-4a4e-9271-bd8c92eb0d71" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/StringsForNewStart/PracticingStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/array/FindPivotIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/patternQuestions/PatternQuestions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/Recursion/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/Recursion/FibonacciNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/Recursion/PowerOfTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/patternQuestions/PatternQuestions.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Java Practice Project/src/com/kunalKushwaha/patternQuestions/PatternQuestions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +41,26 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PatternQuestions">
-    <configuration name="CyclicSortAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kunalKushwaha.SortingAlgoNQuestions.cyclicSort.CyclicSortAlgo" />
+  <component name="RunManager" selected="Application.PowerOfTwo">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kunalKushwaha.Recursion.BinarySearch" />
       <module name="Java_Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kunalKushwaha.SortingAlgoNQuestions.cyclicSort.*" />
+          <option name="PATTERN" value="com.kunalKushwaha.Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kunalKushwaha.Recursion.FibonacciNumber" />
+      <module name="Java_Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kunalKushwaha.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,25 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PracticingStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kunalKushwaha.StringsForNewStart.PracticingStrings" />
+    <configuration name="PowerOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kunalKushwaha.Recursion.PowerOfTwo" />
       <module name="Java_Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kunalKushwaha.StringsForNewStart.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kunalKushwaha.array.StringPalindrome" />
-      <module name="Java_Projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kunalKushwaha.array.*" />
+          <option name="PATTERN" value="com.kunalKushwaha.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PowerOfTwo" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.FibonacciNumber" />
         <item itemvalue="Application.PatternQuestions" />
         <item itemvalue="Application.FindPivotIndex" />
-        <item itemvalue="Application.PracticingStrings" />
-        <item itemvalue="Application.StringPalindrome" />
-        <item itemvalue="Application.CyclicSortAlgo" />
       </list>
     </recent_temporary>
   </component>
